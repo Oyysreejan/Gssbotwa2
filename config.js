@@ -22,20 +22,20 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659', '917004950957'];
-global.premium = ['917050906659'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.ownername = '𝐐𝐮𝐞𝐞𝐧 𝐏𝐢𝐮';
+global.owner = ['919874188403', '917439382677'];
+global.premium = ['917439382677'];
+global.packname = '𝐐𝐮𝐞𝐞𝐧';
+global.author = '𝐏𝐢𝐮';
 global.sessionName = 'session';
 global.prefa = ['', '!', '.'];
 global.sp = '✪';
 global.mess = {
-    banned: '`You are *Banned* fron using commands!`',
-    bangc: '`This Group is *Banned* from using Commands!`',
-    success: '`✓ Success`',
-    admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
+    banned: '`You are *Banned* fron using Piu-Md commands!`',
+    bangc: '`This Group is *Banned* from using Piu-Md Commands!`',
+    success: '`✓ Piu is Success`',
+    admin: '` This is not for you 👽`',
+    botAdmin: '`Piu is not an admin!`',
     owner: '`You are not my owner`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
