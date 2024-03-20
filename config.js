@@ -1,4 +1,4 @@
-const fs = require('fs');
+lconst fs = require('fs');
 const chalk = require('chalk');
 
 // Website Api
@@ -40,11 +40,11 @@ global.mess = {
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
-    wait: '*Processing Your request*',
+    wait: '*Wait..baby...✞*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
-global.link = 'https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://chat.whatsapp.com/KIks9zxaRujBqDjNEQtY29'
+global.linkGroup = 'https://chat.whatsapp.com/KIks9zxaRujBqDjNEQtY29'
 global.autoswview = process.env.AUTO_STATUS_SEEN || "true",
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
